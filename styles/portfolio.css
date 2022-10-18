@@ -30,7 +30,7 @@ p {
 .greeting {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 150px 20px;
 }
 
 .greeting h2 {
