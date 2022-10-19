@@ -22,7 +22,7 @@ h1 {
   line-height: 1.5;
 }
 
-h4 {
+h3 {
   font-size: 35px;
 }
 
@@ -34,7 +34,7 @@ p {
 .greeting {
   background: var(--secondary-color);
   text-align: center;
-  padding: 150px 20px;
+  padding: 80px 20px;
 }
 
 .greeting h2 {
@@ -53,7 +53,7 @@ p {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .content h1 {
@@ -150,10 +150,6 @@ footer .social-links a:hover {
   h1 {
     font-size: 44px;
     line-height: 56px;
-  }
-
-  .greeting {
-    padding: 80px 20px;
   }
 
   .content-container {
