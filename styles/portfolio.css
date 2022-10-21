@@ -122,7 +122,6 @@ footer .contact-box {
 }
 
 footer .email-link {
-  text-decoration: none;
   color: #272142;
   font-size: 24px;
   text-align: center;
@@ -138,6 +137,7 @@ footer .social-links a {
   background-color: var(--secondary-color);
   padding: 10px 14px;
   border-radius: 50%;
+  text-decoration: none;
   font-size: 18px;
   transition: all 130ms ease-in-out;
 }
